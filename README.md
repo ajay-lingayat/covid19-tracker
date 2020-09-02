@@ -1,10 +1,10 @@
-# python-covid19-tracker
+# covid19-tracker
 
 ## Installation
 
 Run the following to install:
 ```python
-pip install python-covid19-tracker 
+pip install covid19-tracker 
 ```
 
 ## Usage
