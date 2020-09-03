@@ -499,5 +499,21 @@ class Tracker:
        else:
           return False        
 
+class covid:
+   def __init__( self):
+       self.url = r'https://raw.githubusercontent.com/Ajay2810-hub/covid19-tracker/master/src/'
+   def symptoms(self):
+       file = open(f'{self.url}symptoms.txt', 'r')
+       text = ''
+       for i in file.readlines():
+           text += i
+       return text
+        
+   def preventions(self):
+       file = open(f'{self.url}preventions.txt', 'r')
+       text = ''
+       for i in file.readlines():
+           text += i
+       return text
 
 
