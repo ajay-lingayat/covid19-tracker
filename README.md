@@ -13,4 +13,4 @@
 ```
 
 ## Installation and Usage on GitHub Pages:
-[See Documentation link](https://ajay2810-hub.github.io/covid19-tracker/) 
+[See Documentation](https://ajay2810-hub.github.io/covid19-tracker/) 
