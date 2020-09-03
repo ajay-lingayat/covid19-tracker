@@ -68,6 +68,30 @@ Output:
 }
 ```
 
+### Get Country names
+```python
+track.countries() 
+```
+Output:
+```
+[
+   'USA',
+   'Brazil',
+   'India', 
+   'Russia',
+   'Peru',
+   'Colombia',
+   'South Africa',
+   'Mexico',
+   'Spain',
+   'Argentina',
+   'Chile',
+   'Iran',
+   'UK'
+   ... 
+]
+```
+
 ### Get Country Information using name
 ```python
  track.country_info_by_name('india')
@@ -194,6 +218,6 @@ Output:
       '1 death every X ppl': 8381,
       '1 test every X ppl': 4
    }
+   ... 
 ]
 ```
-# covid19-tracker
