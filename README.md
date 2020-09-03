@@ -12,5 +12,5 @@
  regex
 ```
 
-Installation and Usage on GitHub Pages:
+## Installation and Usage on GitHub Pages:
 https://ajay2810-hub.github.io/covid19-tracker/
