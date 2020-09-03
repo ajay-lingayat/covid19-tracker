@@ -79,17 +79,17 @@ Output:
       'id': 1,
       'name': 'USA', 
       'continent': 'North America'
-   }
+   }, 
    {
       'id': 2,
       'name': 'Brazil', 
       'continent': 'South America', 
-   }
+   }, 
    {
       'id': 3,
       'name': 'India', 
       'continent': 'Asia'
-   }
+   }, 
    ... 
 ]
 ```
@@ -219,7 +219,7 @@ Output:
       '1 case every X ppl': 145,
       '1 death every X ppl': 8381,
       '1 test every X ppl': 4
-   }
+   }, 
    ... 
 ]
 ```
