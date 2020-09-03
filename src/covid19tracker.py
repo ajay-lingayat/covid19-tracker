@@ -194,7 +194,7 @@ class Tracker:
           return False
           
    def country_names( self ):
-       data = self.info()
+       data = self.country_info()
        if data:
           data = data[1:-8]
           
@@ -497,11 +497,7 @@ class Tracker:
              return False
           
        else:
-          return False
-
-
-
-
+          return False        
 
 
 
