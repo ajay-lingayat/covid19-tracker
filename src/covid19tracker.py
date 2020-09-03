@@ -193,7 +193,7 @@ class Tracker:
        except:
           return False
           
-   def country_names( self ):
+   def countries( self ):
        data = self.country_info()
        if data:
           data = data[1:-8]
