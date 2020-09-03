@@ -75,19 +75,21 @@ Output:
 Output:
 ```
 [
-   'USA',
-   'Brazil',
-   'India', 
-   'Russia',
-   'Peru',
-   'Colombia',
-   'South Africa',
-   'Mexico',
-   'Spain',
-   'Argentina',
-   'Chile',
-   'Iran',
-   'UK'
+   {
+      'id': 1,
+      'name': 'USA', 
+      'continent': 'North America'
+   }
+   {
+      'id': 2,
+      'name': 'Brazil', 
+      'continent': 'South America', 
+   }
+   {
+      'id': 3,
+      'name': 'India', 
+      'continent': 'Asia'
+   }
    ... 
 ]
 ```
