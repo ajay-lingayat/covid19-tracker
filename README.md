@@ -10,14 +10,14 @@ pip install covid19-tracker
 ## Usage
 
 ```python
- from covid19tracker import Tracker
+ >>> from covid19tracker import Tracker
 
- track = Tracker() 
+ >>> track = Tracker() 
 ```
 
 ### Get Total Worldwide Cases 
 ```python
- track.total_cases()
+ >>> track.total_cases()
 ```
 Output:
 ```
@@ -26,7 +26,7 @@ Output:
 
 ### Get Total Worldwide deaths 
 ```python
- track.total_deaths()
+ >>> track.total_deaths()
 ```
 Output:
 ```
@@ -35,7 +35,7 @@ Output:
 
 ### Get Total Worldwide Recoveries 
 ```python
- track.total_recoveries()
+ >>> track.total_recoveries()
 ```
 Output:
 ```
@@ -44,7 +44,7 @@ Output:
 
 ### Get Worldwide Active cases
 ```python
- track.active_cases()
+ >>> track.active_cases()
 ```
 Output:
 ```
@@ -57,7 +57,7 @@ Output:
 
 ### Get Worldwide Closed cases
 ```python
- track.closed_cases()
+ >>> track.closed_cases()
 ```
 Output:
 ```
@@ -70,7 +70,7 @@ Output:
 
 ### Get Country names
 ```python
-track.countries() 
+>>> track.countries() 
 ```
 Output:
 ```
@@ -94,7 +94,7 @@ Output:
 
 ### Get Country Information using name
 ```python
- track.country_info_by_name('india')
+ >>> track.country_info_by_name('india')
 ```
 Output:
 ```
@@ -123,7 +123,7 @@ Output:
 
 ### Get Country Information using id
 ```
- track.country_info_by_id(2)
+ >>> track.country_info_by_id(2)
 ```
 Output:
 ```
@@ -152,7 +152,7 @@ Output:
 
 ### Get Continent Information
 ```python
- track.continent_info('Asia') 
+ >>> track.continent_info('Asia') 
 ```
 Output:
 ```
@@ -171,7 +171,7 @@ Output:
 
 ### Get Information of all countries belonging to a continent
 ```python
- track.countries_info_by_continent('europe')
+ >>> track.countries_info_by_continent('europe')
 ```
 Output:
 ```
