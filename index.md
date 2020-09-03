@@ -225,7 +225,8 @@ Output:
 ### Get Symptoms
 ```python
  from covid19-tracker import covid
- covid.symptoms() 
+ covid19 = covid()
+ covid19.symptoms() 
 ```
 Output:
 ```
@@ -247,7 +248,7 @@ COVID-19 affects different people in different ways. Most infected people will d
 
 ### Get Prevention Methods
 ```python
- covid.preventions()
+ covid19.preventions()
 ```
 Output:
 ```
