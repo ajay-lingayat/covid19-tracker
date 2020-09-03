@@ -1,6 +1,6 @@
 # covid19-tracker
 
-<a href="https://github.com/Ajay2810-hub/covid19-tracker" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+<a href="https://pypi.org/project/covid19-tracker/" class="btn btn-github"><span class="icon"></span>View on PyPi</a>
 
 ## Installation
 
