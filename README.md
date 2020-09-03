@@ -12,7 +12,7 @@ pip install covid19-tracker
 ```python
  from covid19tracker import Tracker
 
- >>> track = Tracker() 
+ track = Tracker() 
 ```
 
 ### Get Total Worldwide Cases 
