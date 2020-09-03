@@ -200,7 +200,12 @@ class Tracker:
           
           names = list()
           for i in data:
-              names.append(i[2])
+              info = {
+                  'id': int(i[0].replace(',','').strip()),
+                  'name': i[2].strip(),
+                  'continent': i[19].strip()
+              }
+              names.append(info)
           
           if names:
              return names
