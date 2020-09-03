@@ -152,7 +152,7 @@ Output:
 
 ### Get Continent Information
 ```python
- >>> track.continent_info('Asia') 
+ track.continent_info('Asia') 
 ```
 Output:
 ```
