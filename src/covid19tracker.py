@@ -503,17 +503,19 @@ class covid:
    def __init__( self):
        self.url = r'https://raw.githubusercontent.com/Ajay2810-hub/covid19-tracker/master/src/'
    def symptoms(self):
-       file = open(f'{self.url}symptoms.txt', 'r')
-       text = ''
-       for i in file.readlines():
-           text += i
-       return text
+       r = requests.get(r'{}symptoms.txt'.format(self.url))
+       if r.status_code == 200:
+          r = str(r.text)
+          return r
+       else:
+          return False
         
    def preventions(self):
-       file = open(f'{self.url}preventions.txt', 'r')
-       text = ''
-       for i in file.readlines():
-           text += i
-       return text
+       r = requests.get(r'{}preventions.txt'.format(self.url))
+       if r.status_code == 200:
+          r = str(r.text)
+          return r
+       else:
+          return False
 
 
