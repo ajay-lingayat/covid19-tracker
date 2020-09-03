@@ -1,5 +1,8 @@
 # covid19-tracker
 
+Documentation on GitHub Pages:
+https://ajay2810-hub.github.io/covid19-tracker/
+
 ## Installation
 
 Run the following to install:
