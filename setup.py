@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name = 'covid19-tracker',
-    version = '0.0.7',
+    version = '0.0.8',
     author="Ajay Lingayat",
     author_email="lingayatajay2810@gmail.com",
     description = "This module helps to track Covid19.",
