@@ -4,7 +4,7 @@
 [![Downloads](https://pepy.tech/badge/covid19-tracker/month)](https://pepy.tech/project/covid19-tracker/month)
 [![Downloads](https://pepy.tech/badge/covid19-tracker/week)](https://pepy.tech/project/covid19-tracker/week)
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-[![HitCount](http://hits.dwyl.com/Kamaropoulos/COVID19Py.svg)](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker) 
+[![HitCount](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker.svg)](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker) 
 [![GitHub stars](https://img.shields.io/github/stars/Ajay2810-hub/covid19-tracker.svg?style=social&label=Star)](https://github.com/Ajay2810-hub/covid19-tracker)
 
 ## Requirements
