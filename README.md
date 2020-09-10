@@ -7,7 +7,7 @@
 [![HitCount](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker.svg)](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker)
 [![GitHub stars](https://img.shields.io/github/stars/Ajay2810-hub/covid19-tracker.svg?style=social&label=Star)](https://github.com/Ajay2810-hub/covid19-tracker)
 
-## Installation and Usage on Github Pages
+## Installation and Usage on Github Pages 
 [See Documentation](https://ajay2810-hub.github.io/covid19-tracker/) 
 
 
