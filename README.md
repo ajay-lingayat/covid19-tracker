@@ -6,6 +6,8 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker.svg)](http://hits.dwyl.com/Ajay2810-hub/covid19-tracker)
 [![GitHub stars](https://img.shields.io/github/stars/Ajay2810-hub/covid19-tracker.svg?style=social&label=Star)](https://github.com/Ajay2810-hub/covid19-tracker)
+[![Latest PyPI version](https://img.shields.io/pypi/v/covid19-tracker.svg)](https://pypi.org/project/covid19-tracker)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/covid19-tracker.svg)](https://pypi.org/project/covid19-tracker)
 
 ## Installation and Usage on Github Pages 
 [See Documentation](https://ajay2810-hub.github.io/covid19-tracker/) 
